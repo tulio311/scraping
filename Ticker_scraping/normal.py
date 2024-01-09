@@ -1,3 +1,8 @@
+# This code plots the maximum likelihood normal density estimation obtained from the pe ratios
+# gotten from yahoo finance. The parameters given to the stats.norm method are the ones obtained 
+# from the known solutions of the normal maximum likelihood estimation.
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats
